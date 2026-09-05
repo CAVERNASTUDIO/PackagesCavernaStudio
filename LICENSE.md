@@ -7,8 +7,8 @@ _MIT License_
 Contribution:<br>
 _**PackagesCavernaStudio**_ Copyright (c) 2026 **García Aparicio Erik Alejandro.**
 
-_MIT LicenseMIT LicenseMIT LicenseMITMIT LicenseMIT License LicenseAll rights reserved.
-Permission is hereby granted, free of charge, to any person obtaining a copy
+_All rights reserved._<br>
+_Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
